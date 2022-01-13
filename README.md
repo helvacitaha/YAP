@@ -1,16 +1,19 @@
-# exampleasmbdmyapcodes
-C, Python, Assembly, YAP ve Birdemleyici dillerinde gösterimi yapılan örnek kodlar.\
+##YAP Programlama Dili
 
-Örnek Kod 1: if-else\
-Örnek Kod 2: while\
-Örnek Kod 3: AND-OR-XOR\
-Örnek Kod 4: Değişken oluşturma ve bu değişkenleri toplama.\
+Diğer Türkçe yazılım dillerinin aksine YAP, yazılımcılığın temellerinde gezen, daha karmaşık bir kelime yapısı olan ve sıfırdan yapılan bir geliştirme sürecine sahip bir programlama dilidir. Sözdizim (syntax) olarak C dili örnek alınmıştır ve C dilinin Assembly diline derlendiği gibi YAP da Birdemleyici isimli dile derlenmektedir. Halihazırda kendi geliştirdiğmiz TPBİ (Türkçe ile Programlanabilir Basit İşlemci) işlemcisi üzerinde çalıştırılmaktadır. Geliştirilmesine devam edilmektedir.
 
-Example Codes Demonstrated in C, Python, Assembly, YAP, Birdemleyici.\
+YAP ve Birdemleyicinin Örnek Kodları:
 
-Example Code 1: if-else\
-Example Code 2: while\
-Example Code 3: AND-OR-XOR\
-Example Code 4: Creating integers and adding them.\
+*Örnek Kod 1: [if-else örneği]
+*Örnek Kod 2: [while]
+*Örnek Kod 3: [AND-OR-XOR]
+*Örnek Kod 4: [Değişken oluşturma ve bu değişkenleri toplama]
+[if-else örneği]:<https://github.com/turkce-yazilim-konati/YAP/tree/main/YAP%20ve%20Birdemleyici%20Örnek%20Kodları/Example%20Code%201>
+[while]:<https://github.com/turkce-yazilim-konati/YAP/tree/main/YAP%20ve%20Birdemleyici%20Örnek%20Kodları/Example%20Code%202>
+[AND-OR-XOR]:<https://github.com/turkce-yazilim-konati/YAP/tree/main/YAP%20ve%20Birdemleyici%20Örnek%20Kodları/Example%20Code%203>
+[Değişken oluşturma ve bu değişkenleri toplama]:<https://github.com/turkce-yazilim-konati/YAP/tree/main/YAP%20ve%20Birdemleyici%20Örnek%20Kodları/Example%20Code%204>
+[buradan]:<https://github.com/turkce-yazilim-konati/YAP/blob/main/Birdemleyici%20Dokümanları/Birdemleyici%20Makine%20Kodu%20ve%20Operasyon%20Kodları/Birdemleyici%20Opcodes.PNG>
 
-Opcodes for our very own processor can be found on the file "Birdemleyici Opcodes.PNG".
+İşlemci operasyon kodlarına [buradan] ulaşabilirsiniz.
+
+Projenin geliştirilmesi şu anda askıya alınmıştır. Sabrınız için teşekkür ederiz.
