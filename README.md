@@ -4,13 +4,13 @@ Diğer Türkçe yazılım dillerinin aksine YAP, yazılımcılığın temellerin
 
 YAP ve Birdemleyicinin Örnek Kodları:
 
-*Örnek Kod 1: [if-else örneği]
+* Örnek Kod 1: [if-else örneği]
 
-*Örnek Kod 2: [while]
+* Örnek Kod 2: [while]
 
-*Örnek Kod 3: [AND-OR-XOR]
+* Örnek Kod 3: [AND-OR-XOR]
 
-*Örnek Kod 4: [Değişken oluşturma ve bu değişkenleri toplama]
+* Örnek Kod 4: [Değişken oluşturma ve bu değişkenleri toplama]
 
 [if-else örneği]:<https://github.com/turkce-yazilim-konati/YAP/tree/main/YAP%20ve%20Birdemleyici%20Örnek%20Kodları/Example%20Code%201>
 [while]:<https://github.com/turkce-yazilim-konati/YAP/tree/main/YAP%20ve%20Birdemleyici%20Örnek%20Kodları/Example%20Code%202>
